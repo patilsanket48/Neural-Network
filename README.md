@@ -4,10 +4,17 @@ In this kernel, I have tried to explain the workflow of Neural Network categoric
 Pipeline
 
 Acquire training and testing data
+
 Normalizing data
+
 Neural network Model building
+
 Neural network hyper-parameter tuning
+
 Train the neural network
+
 Result assessment
+
 Prediction
+
 Prediction check
